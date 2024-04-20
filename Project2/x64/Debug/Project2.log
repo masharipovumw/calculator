@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\projecs\Project2\Project2\MyForm.h(390,40): error C2106: =: левый операнд должен быть левосторонним значением
+  (компиляция исходного файла "MyForm.cpp")
+  
